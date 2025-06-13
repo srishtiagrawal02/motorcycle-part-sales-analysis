@@ -1,4 +1,5 @@
-<img width="396" alt="{B8250D50-4021-4690-8BBF-384D9C8C8A3F}" src="https://github.com/user-attachments/assets/966830d0-9e64-4b3f-9ef5-167149a484f2" />
+<img width="865" alt="{8FFBE8B4-9EEE-4498-B2E1-AE2FB09CC5C2}" src="https://github.com/user-attachments/assets/1a6a62be-4485-49c8-9b58-97a11434c753" />
+
 
 # 🏍️ Analyzing Motorcycle Part Sales
 
