@@ -1,3 +1,5 @@
+<img width="396" alt="{B8250D50-4021-4690-8BBF-384D9C8C8A3F}" src="https://github.com/user-attachments/assets/966830d0-9e64-4b3f-9ef5-167149a484f2" />
+
 # 🏍️ Analyzing Motorcycle Part Sales
 
 This project explores a dataset of motorcycle part sales using PostgreSQL and Python (pandas, seaborn, matplotlib) in Jupyter Notebook. The goal is to uncover key business insights such as top-performing product lines, monthly sales trends, and client purchasing behavior.
